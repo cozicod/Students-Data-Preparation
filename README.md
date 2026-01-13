@@ -73,12 +73,17 @@ A fully numeric, ML-ready dataset saved as:
 
 ---
 
-## 🚀 How to Run
+## Dependencies
 
-Install dependencies:
-```bash
-pip install -r requirements.txt
-```
+The project uses the following libraries:
+
+- pandas >= 1.5.0  
+- numpy >= 1.23.0  
+- matplotlib >= 3.6.0  
+- seaborn >= 0.12.0  
+- scikit-learn >= 1.2.0  
+- jupyter >= 1.0.0  
+- notebook >= 7.0.0  
 
 ## Author
 
